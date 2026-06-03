@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hola, soy Patricio García-Huidobro
 
-<!--
-**patricioghs/patricioghs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero Constructor y Desarrollador Full Stack JavaScript en formación.
 
-Here are some ideas to get you started:
+Actualmente desarrollo plataformas web orientadas a la digitalización de procesos empresariales y gestión de negocios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+
+### Tilo
+Plataforma SaaS para catálogos digitales y recepción de pedidos.
+
+https://tilo.cl
+
+### ObraOK
+ERP para constructoras orientado al control de presupuestos, gastos y gestión de proyectos.
+
+https://obraok.cl
+
+### Estilos
+Plataforma para cotización de enmarcaciones personalizadas.
+
+https://estilos.obraok.cl
+
+## Tecnologías
+
+- JavaScript
+- HTML
+- CSS
+- React
+- Node.js
+- PostgreSQL
+
+## Contacto
+
+Email: patricio.ghs@gmail.com
+LinkedIn: (agregar enlace)
